@@ -1,1 +1,1 @@
-# Text-Project-Text-Retrieval-using-Pretrained-Embedding-
+# Text-Project-Text-Retrieval-using-Pretrained-Embedding
